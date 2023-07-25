@@ -1,5 +1,5 @@
 # ✅About Me:
-Hello, I am Salih Dal.<br>I am an electrical and electronics engineer.<br>For venturing into other realms with open ends and embarking on various projects with different structures, I greet the whole world from here.<br>I love working with electrical systems, software, and machinery.<br>Would you like to take a look at my working world?<br>The languages I know are Turkish (native language), intermediate level English, and beginner level German.
+Hello, I am Salih Dal.<br>I am an electrical and electronics engineer.<br>For venturing into other realms with open ends and embarking on various projects with different structures, I greet the whole world from here.<br>I love working with electrical systems, software, and machinery.<br>The languages I know are Turkish (native language), intermediate level English, and beginner level German.<br>Would you like to take a look at my working world?
 
 
 ## 🌐 Socials:
